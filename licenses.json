@@ -1,0 +1,8 @@
+{
+  "TEST-KEY-123": {
+    "expiry_date": "2027-12-31",
+    "max_devices": 1,
+    "hwid": null,
+    "active_devices": 0
+  }
+}
